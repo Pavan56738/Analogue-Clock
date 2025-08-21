@@ -93,7 +93,3 @@ This project is open-source and free to use for learning and development.
 📷 ScreenShot
 
 <img width="1830" height="882" alt="Screenshot 2025-08-21 231852" src="https://github.com/user-attachments/assets/6c2bdb0b-b9de-4c88-9700-7716a8ec2c8a" />
-
-This project is open-source and free to use for learning and development.
-
-👉 Do you want me to export this as a .md file so you can download it directly and add to GitHub, or just keep it in text format?
